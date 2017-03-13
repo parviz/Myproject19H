@@ -224,7 +224,7 @@ private boolean acceptNextAlert = true;
 			}
 			
 		}
-		driver.close();
+		//driver.close();
 }
   
   public List<WebElement> GetItem(int menue){
